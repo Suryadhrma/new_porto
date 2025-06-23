@@ -24,8 +24,8 @@ function App() {
         </p>
 
         <div className="flex items-center sm:gap-4 gap-2">
-          <a className="bg-violet-700 p-4 rounded-2xl hover:bg-violet-600" href="#">
-            Download CV <i className="ri-download-line ri-lg"></i>
+          <a className="bg-violet-700 p-4 rounded-2xl hover:bg-violet-600" href="https://www.linkedin.com/in/m-surya-dharma-khazinatul-azror-635aa228a ">
+            Linkedln <i className="ri-download-line ri-lg"></i>
           </a>
           <a className="bg-zinc-700 p-4 rounded-2xl hover:bg-zinc-600" href="#proyek">
             Lihat Proyek <i className="ri-arrow-down-line ri-lg"></i>
