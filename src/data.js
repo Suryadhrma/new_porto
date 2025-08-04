@@ -113,6 +113,9 @@ import Proyek2 from "/assets/proyek/lms.jpg";
 import Proyek3 from "/assets/proyek/design.jpg";
 import Proyek4 from "/assets/proyek/4chick.png";
 import Proyek5 from "/assets/proyek/airport_system.png";
+import Proyek6 from "/assets/proyek/dashboardLoganalis.png";
+import Proyek7 from "/assets/proyek/script-file.png";
+import Proyek8 from "/assets/proyek/port-scanner.png";
 
 export const listProyek = [
   {
@@ -161,6 +164,36 @@ export const listProyek = [
     tools: ["PHP", "LARAVEL", "CSS"],
     dad: "600",
     link: "https://github.com/Suryadhrma/airportsysten",
+  },
+
+  {
+    id: 6,
+    gambar: Proyek6,
+    nama: "DASHBOARD LOG ANALIZER",
+    desk: "Website yang berfungsi untuk menganalisis log",
+    tools: ["React", "Python", "TailwindCSS"],
+    dad: "700",
+    link: "https://github.com/Suryadhrma/Log-Analysis-Dashboard",
+  },
+
+  {
+    id: 7,
+    gambar: Proyek7,
+    nama: "Script File Encryptor",
+    desk: "Script untuk mengenkripsi file via CLI",
+    tools: ["Python"],
+    dad: "800",
+    link: "https://github.com/Suryadhrma/Script-File-Encryptor",
+  },
+
+  {
+    id: 8,
+    gambar: Proyek8,
+    nama: "DASHBOARD LOG ANALIZER",
+    desk: "Website yang berfungsi untuk menganalisis log",
+    tools: ["Python"],
+    dad: "900",
+    link: "https://github.com/Suryadhrma/Port-Scanner",
   },
 ];
 
