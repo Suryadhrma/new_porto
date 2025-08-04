@@ -11,5 +11,5 @@ export default defineConfig({
       outDir: "dist"
     })
   ],
-  base : '/portofolio/'
+  base : '/new_porto/'
 })
