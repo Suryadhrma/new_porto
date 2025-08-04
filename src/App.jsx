@@ -53,7 +53,7 @@ function App() {
         <div className="flex items-center gap-6">
           <div>
             <h1 className="text-4xl mb-1">
-              5 
+              8 
             </h1>
             <p> Proyek Selesai</p>
           </div>
